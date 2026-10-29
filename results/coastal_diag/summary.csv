@@ -1,0 +1,5 @@
+d0_m,phi0_deg,n_seeds,same_category_both,seeds_in_EVV_teacher,seeds_in_EVV_res32,seeds_EVV_falsified_teacher,seeds_EVV_falsified_res32,mc5000_outages_teacher,mc5000_outages_res32,P_zero_in_200_at_p5000,n_witnesses,witnesses_transfer,max_abs_rho_diff,max_du_c,max_dr_c,min_falsifier_rho_any_seed
+1.25,-15,5,5,2,2,2,2,10,10,0.67,4,4,0.0098,0.004,8.7e-05,-4.0973
+2.75,15,5,5,5,5,2,2,0,0,1.0,4,4,0.0029,0.0005,2.0e-05,-0.0459
+5.25,-15,5,5,3,3,3,3,8,8,0.726,6,6,0.0,0.0025,6.6e-05,-0.3577
+5.25,15,5,5,3,3,3,3,10,10,0.67,6,6,0.0,0.0039,5.6e-05,-0.3915

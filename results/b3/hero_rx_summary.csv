@@ -1,0 +1,24 @@
+metric,value,n
+verdict res_32 -> sway,Certified -> Inconclusive,4
+verdict res_32 -> sway,Falsified -> Falsified,49
+verdict res_32 -> sway,Falsified -> Inconclusive,39
+verdict res_32 -> sway,Inconclusive -> Inconclusive,28
+res_32 falsified provenance,Rx,76
+res_32 falsified provenance,Tx,12
+res_32 cells with MC outage > 0,,88
+res_32 mean MC outage rate,0.3015,120
+sway falsified provenance,P,21
+sway falsified provenance,Rx,2
+sway falsified provenance,Tx,26
+sway cells with MC outage > 0,,41
+sway mean MC outage rate,0.0841,120
+sway inconclusive reach status,damping envelope,3
+sway inconclusive reach status,set explosion,68
+res_32 inconclusive reach status,possible violation,5
+res_32 inconclusive reach status,set explosion,23
+res_32 verdicts clear,C 3 / F 20 / I 17,40
+sway verdicts clear,C 0 / F 0 / I 40,40
+res_32 verdicts coastal,C 1 / F 28 / I 11,40
+sway verdicts coastal,C 0 / F 9 / I 31,40
+res_32 verdicts turbid,C 0 / F 40 / I 0,40
+sway verdicts turbid,C 0 / F 40 / I 0,40

@@ -1,0 +1,11 @@
+Campaign E witness, regime R0, cell 95 (clear, d0 = 6.5 m, loc = 1 m, w0 = 0.075 m/s), job 41, seed rng(7541)
+falsify_cell: found 1, rho -0.2169, first predicate 1 (1 Tx, 2 Rx, 3 P), first violation 19.35 s
+x0 = [6.75 -0.05236 0.08727 0 0.008444 0.000874] (inside the cell box: 1)
+true c = 0.1661 (nominal 0.1510, bound +-10 %)
+current: m0 = 0.0719 m/s (w0 0.0750), direction 138.2 deg, max |W| = 0.0719, max |dW_i/dt| = 0.00e+00 (rho 0.00e+00), constant: 1
+localisation bias |dpos| = 1.0000 m (bound 1.0000), heading bias 1.000 deg (bound 1.000), velocity biases [0.02 0.02 -0.01] (bounds [0.02 0.02 0.01])
+square-wave period 40.00 s, bias direction offset 351.0 deg, rotation -0.078 rad/s
+replay (dt_sim 0.0500 s): rho -0.2169, first predicate 1, first violation 19.35 s
+replay (dt_sim 0.0125 s): rho -0.2169, first predicate 1, first violation 19.31 s
+max |e(t)| = 15.217 deg (Tx half-angle 15.0), max |phi(t)| = 9.663 deg (FOV 30.0)
+admissible under the reference box model as well: a constant world current of magnitude <= w0 has polar components in the disk, inside [-w0, w0]^2

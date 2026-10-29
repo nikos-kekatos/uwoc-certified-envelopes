@@ -1,0 +1,10 @@
+level,water,GroupCount,fun1_falsified_6dof
+L1_low,clear,15,0
+L1_low,coastal,11,0
+L1_low,turbid,3,0
+L2_med,clear,15,0
+L2_med,coastal,11,0
+L2_med,turbid,3,1
+L3_high,clear,15,1
+L3_high,coastal,11,1
+L3_high,turbid,3,1

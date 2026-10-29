@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# MATLAB caches and autosaves
+*.asv
+*.m~
+*.autosave
+*.mex*
+slprj/
+*.slxc
+codegen/
+octave-workspace
+
+# CORA auxiliary/generated files (symbolic derivatives, tensors, models)
+auxiliary/
+**/models/auxiliary/
+*_derivatives*/
+cora_*.cache
+
+# Logs and run markers
+*.log
+results/logs/*
+!results/logs/.gitkeep
+*.flag
+
+# Large regenerable data (see DATA.md)
+results/phase2/teacher_data.mat
+results/b3/teacher_sway_data.mat
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Generated LaTeX table snippet from make_figures.py
+figures/*.tex

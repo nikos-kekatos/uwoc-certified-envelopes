@@ -1,0 +1,39 @@
+T_cert over the 130 empirically viable cells (verdicts: Certified 32, Falsified 28, Inconclusive 70)
+
+Fine T_cert (tFail-based), cells with a computed value (Certified + Inconclusive):
+  all: n=102 median 5.75 s, mean 9.35 s, min 0.50, max 20.00; =0: 0, >=10: 45, >=20: 32
+  Inconclusive 70: n=70 median 3.00 s, mean 4.49 s, min 0.50, max 18.50; =0: 0, >=10: 13, >=20: 0
+  Inconclusive 70, window-granular: n=70 median 0.00 s, mean 3.34 s, min 0.00, max 16.00; =0: 38, >=10: 13, >=20: 0
+
+By water (Inconclusive 70, fine):
+  clear: n=41 median 3.00 s, mean 4.08 s, min 0.50, max 13.10; =0: 0, >=10: 7, >=20: 0
+  coastal: n=22 median 4.28 s, mean 5.82 s, min 0.50, max 18.50; =0: 0, >=10: 6, >=20: 0
+  turbid: n=7 median 2.35 s, mean 2.68 s, min 0.50, max 5.05; =0: 0, >=10: 0, >=20: 0
+
+By localisation error (Inconclusive 70, fine):
+  loc 0.05 m: n=7 median 10.00 s, mean 9.19 s, min 5.00, max 13.55; =0: 0, >=10: 4, >=20: 0
+  loc 0.1 m: n=9 median 10.00 s, mean 8.82 s, min 1.95, max 18.50; =0: 0, >=10: 5, >=20: 0
+  loc 0.2 m: n=12 median 5.50 s, mean 6.01 s, min 0.50, max 11.50; =0: 0, >=10: 3, >=20: 0
+  loc 0.3 m: n=15 median 4.00 s, mean 4.26 s, min 0.95, max 10.00; =0: 0, >=10: 1, >=20: 0
+  loc 0.5 m: n=15 median 2.00 s, mean 1.80 s, min 0.50, max 3.00; =0: 0, >=10: 0, >=20: 0
+  loc 0.75 m: n=8 median 0.50 s, mean 0.66 s, min 0.50, max 0.95; =0: 0, >=10: 0, >=20: 0
+  loc 1 m: n=4 median 0.50 s, mean 0.50 s, min 0.50, max 0.50; =0: 0, >=10: 0, >=20: 0
+
+By water and loc band (Inconclusive 70; median fine T_cert [s], n):
+  clear: loc<0.3: median 7.0 (n=13); loc>=0.3: median 1.5 (n=28)
+  coastal: loc<0.3: median 10.0 (n=9); loc>=0.3: median 2.0 (n=13)
+  turbid: loc<0.3: median 2.7 (n=6); loc>=0.3: median 0.9 (n=1)
+
+Histogram of fine T_cert, Inconclusive 70 (bins [0,1),[1,4),[4,8),[8,12),[12,16),[16,20)):
+  16 22 18 10 3 1
+
+Raw opportunity at 10 Mb/s (fine T_cert x 10 Mb/s):
+  Certified: 200 Mb (25 MB) each
+  Inconclusive 70: median 30 Mb, max 185 Mb, sum 3140 Mb; cells with >= 40 Mb (>= 4 s): 32; >= 100 Mb (>= 10 s): 13
+
+Cells falsified by the sideways adversary (T_cert must lie below the witness time):
+  cell 179 coastal d0=4 loc=0.5 w=0.075: T_cert 1.50 s
+  cell 198 turbid d0=1 loc=0.05 w=0.025: T_cert 5.00 s
+  cell 205 turbid d0=1 loc=0.1 w=0.025: T_cert 1.95 s
+
+Window-granular T_cert (Inconclusive 70) by water: clear median 0 s; coastal median 4 s; turbid median 0 s

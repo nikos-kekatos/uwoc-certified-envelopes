@@ -1,0 +1,7 @@
+controller,set,n,share_abs_phih_ge_20deg,share_abs_eh_ge_5deg,share_coastal
+NN+M(sway),uncertified_in_range,3736,0.607,0.011,0.583
+NN+M(sway),certified,15273,0.0,0.041,0.481
+L(sway),uncertified_in_range,3805,0.412,0.12,0.548
+L(sway),certified,4419,0.0,0.026,0.483
+L(sway)+M,uncertified_in_range,3131,0.457,0.152,0.573
+L(sway)+M,certified,19563,0.0,0.023,0.482

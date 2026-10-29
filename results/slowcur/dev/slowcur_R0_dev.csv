@@ -1,0 +1,6 @@
+job,cell,set,near_edge,water,d0_m,loc_m,w_mps,p1_status,p1_cert,p2_status,p2_cert,p3_status,p3_cert,cert_by,Mlow,possTx,possRx,possP,tFirstViol,provFirst,reach_s,ran,mc_rho,mc_outage,ce_found,ce_rho,ce_prov,sw_found,sw_rho,sw_prov,sw_tOut,sw_nviol,fals_s,ref_verdict,verdict,carried_w0,soundness_violation,reason
+1,4,unresolved67,1,clear,3,0.05,0.075,violated,0,violated,0,error:CORA:reachSetExplosion,0,,6.41499649510195,0,1,0,13.95,Rx,1802.96674666667,1,5.44568907222762,0,0,4.2264817684445,0,0,3.19899282618383,0,NaN,0,7.24842470833333,Inconclusive,Inconclusive,0,0,ace:Rx
+69,2,certified_hero,0,clear,3,0.05,0.025,ok,1,,0,,0,p1,8.18662427053507,0,0,0,Inf,,63.499625125,1,8.81361460677586,0,0,8.61335373835723,0,0,8.81883197202277,0,NaN,0,3.11561533333333,Certified,Certified,0,0,
+101,179,falsified3,0,coastal,4,0.5,0.075,,0,,0,,0,,NaN,0,0,0,NaN,,0,0,4.74849266791416,0,0,1.69375588728424,0,1,-0.174412962940339,2,19.9,14,2.4673075,Falsified,Falsified,0,0,
+102,198,falsified3,0,turbid,1,0.05,0.025,,0,,0,,0,,NaN,0,0,0,NaN,,0,0,3.25187676346811,0,0,2.40277709430781,0,1,-0.325191871255091,2,19.7,280,5.82544616666667,Falsified,Falsified,0,0,
+103,205,falsified3,0,turbid,1,0.1,0.025,,0,,0,,0,,NaN,0,0,0,NaN,,0,0,4.06650872171223,0,0,1.77202992456065,0,1,-1.88078992744385,2,18.35,1919,2.4182155,Falsified,Falsified,0,0,

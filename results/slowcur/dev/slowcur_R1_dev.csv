@@ -1,0 +1,5 @@
+job,cell,set,near_edge,water,d0_m,loc_m,w_mps,p1_status,p1_cert,p2_status,p2_cert,p3_status,p3_cert,cert_by,Mlow,possTx,possRx,possP,tFirstViol,provFirst,reach_s,ran,mc_rho,mc_outage,ce_found,ce_rho,ce_prov,sw_found,sw_rho,sw_prov,sw_tOut,sw_nviol,fals_s,ref_verdict,verdict,carried_w0,soundness_violation,reason
+69,2,certified_hero,0,clear,3,0.05,0.025,ok,1,,0,,0,p1,8.12766295065149,0,0,0,Inf,,105.127886958333,1,8.87041497568627,0,0,8.6208150615302,0,0,8.81309007756132,0,NaN,0,5.09334408333333,Certified,Certified,0,0,
+101,179,falsified3,0,coastal,4,0.5,0.075,,0,,0,,0,,NaN,0,0,0,NaN,,0,0,3.91424306830709,0,0,2.29552043362487,0,1,-0.254380330026593,2,19.85,77,5.78653695833333,Falsified,Falsified,0,0,
+102,198,falsified3,0,turbid,1,0.05,0.025,,0,,0,,0,,NaN,0,0,0,NaN,,0,0,3.49733422001303,0,0,2.39832830771792,0,1,-0.331115881679737,2,19.7,266,5.4649395,Falsified,Falsified,0,0,
+103,205,falsified3,0,turbid,1,0.1,0.025,,0,,0,,0,,NaN,0,0,0,NaN,,0,0,3.54223721034766,0,0,1.8368968038632,0,1,-1.87002481987548,2,18.35,1902,4.738110875,Falsified,Falsified,0,0,

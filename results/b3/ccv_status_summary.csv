@@ -1,0 +1,9 @@
+run,controller,water,n_tiles,n_EVV,n_cert,EVV_inconclusive_status,falsified_prov_all_tiles
+b3w025,res_32_sway,clear,132,90,0,set explosion 71,P 44; Rx 17
+b3w025,res_32_sway,coastal,132,52,0,set explosion 36,P 84; Rx 12
+b3w025,res_32,clear,132,60,36,possible violation 12; set explosion 8,P 42; Rx 34
+b3w025,res_32,coastal,132,36,10,possible violation 15,P 82; Rx 25
+b3w050,res_32_sway,clear,132,90,0,damping envelope 1; set explosion 57,P 43; Rx 29; Tx 2
+b3w050,res_32_sway,coastal,132,52,0,set explosion 30,P 84; Rx 16; Tx 2
+b3w050,res_32,clear,132,42,6,possible violation 6; set explosion 22,P 41; Rx 57
+b3w050,res_32,coastal,132,19,0,possible violation 11,P 81; Rx 40

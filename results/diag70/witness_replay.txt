@@ -1,0 +1,3 @@
+cell 179 (coastal d0=4 loc=0.5 w=0.075) mode track: bounds ok 1, |w| = 0.0750 (w0 0.0750), |dpos| = 0.500 (loc 0.500), rho -0.368 deg, first violation 2 at 19.75 s, max|phi| 0.5300 rad at 20.00 s (FOV 0.5236)
+cell 198 (turbid d0=1 loc=0.05 w=0.025) mode track: bounds ok 1, |w| = 0.0250 (w0 0.0250), |dpos| = 0.050 (loc 0.050), rho -0.334 deg, first violation 2 at 19.70 s, max|phi| 0.5294 rad at 20.00 s (FOV 0.5236)
+cell 205 (turbid d0=1 loc=0.1 w=0.025) mode const: bounds ok 1, |w| = 0.0250 (w0 0.0250), |dpos| = 0.100 (loc 0.100), rho -1.872 deg, first violation 2 at 18.35 s, max|phi| 0.5563 rad at 20.00 s (FOV 0.5236)

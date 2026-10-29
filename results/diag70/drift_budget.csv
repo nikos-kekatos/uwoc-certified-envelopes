@@ -1,0 +1,103 @@
+cell,group,water,d0_m,loc_m,w_mps,margin0_rad,drift_kin_rad,drift_nf_rad,drift_adv_rad,ratio_kin,ratio_nf,ratio_adv,class_nf,class_kin,class_adv,verdict,nf_rx_margin_min_deg,adv_min_rho
+4,inconclusive70,clear,3.0,0.05,0.075,0.4712,0.5455,0.4013,0.4159,1.157,0.852,0.883,borderline,at risk,borderline,Unresolved,4.0,3.169
+11,inconclusive70,clear,3.0,0.1,0.075,0.4712,0.5455,0.4013,0.4219,1.157,0.852,0.895,borderline,at risk,borderline,Unresolved,4.0,2.829
+17,inconclusive70,clear,3.0,0.2,0.05,0.4712,0.3636,0.2705,0.2987,0.772,0.574,0.634,borderline,borderline,borderline,Unresolved,11.5,7.97
+18,inconclusive70,clear,3.0,0.2,0.075,0.4712,0.5455,0.4013,0.4338,1.157,0.852,0.921,borderline,at risk,borderline,Unresolved,4.0,2.146
+23,inconclusive70,clear,3.0,0.3,0.025,0.4712,0.1818,0.1388,0.1771,0.386,0.295,0.376,tool-limited,tool-limited,tool-limited,Unresolved,19.05,8.063
+24,inconclusive70,clear,3.0,0.3,0.05,0.4712,0.3636,0.2705,0.3096,0.772,0.574,0.657,borderline,borderline,borderline,Unresolved,11.5,7.271
+25,inconclusive70,clear,3.0,0.3,0.075,0.4712,0.5455,0.4013,0.4458,1.157,0.852,0.946,borderline,at risk,borderline,Unresolved,4.0,1.457
+29,inconclusive70,clear,3.0,0.5,0.0,0.4712,0.0,0.0077,0.0678,0.0,0.016,0.144,tool-limited,tool-limited,tool-limited,Unresolved,26.56,5.647
+30,inconclusive70,clear,3.0,0.5,0.025,0.4712,0.1818,0.1388,0.1985,0.386,0.295,0.421,tool-limited,tool-limited,tool-limited,Unresolved,19.05,4.835
+31,inconclusive70,clear,3.0,0.5,0.05,0.4712,0.3636,0.2705,0.3313,0.772,0.574,0.703,borderline,borderline,borderline,Unresolved,11.5,4.011
+32,inconclusive70,clear,3.0,0.5,0.075,0.4712,0.5455,0.4013,0.4705,1.157,0.852,0.998,borderline,at risk,borderline,Unresolved,4.0,0.044
+36,inconclusive70,clear,3.0,0.75,0.0,0.4712,0.0,0.0077,0.0985,0.0,0.016,0.209,tool-limited,tool-limited,tool-limited,Unresolved,26.56,1.548
+37,inconclusive70,clear,3.0,0.75,0.025,0.4712,0.1818,0.1388,0.2244,0.386,0.295,0.476,tool-limited,tool-limited,tool-limited,Unresolved,19.05,0.711
+53,inconclusive70,clear,6.5,0.05,0.075,0.4712,0.24,0.2868,0.2917,0.509,0.609,0.619,borderline,borderline,borderline,Unresolved,10.57,3.67
+54,inconclusive70,clear,6.5,0.05,0.1,0.4712,0.32,0.3806,0.3862,0.679,0.808,0.82,borderline,borderline,borderline,Unresolved,5.2,3.664
+59,inconclusive70,clear,6.5,0.1,0.05,0.4712,0.16,0.192,0.199,0.34,0.407,0.422,tool-limited,tool-limited,tool-limited,Unresolved,16.0,3.674
+60,inconclusive70,clear,6.5,0.1,0.075,0.4712,0.24,0.2868,0.2936,0.509,0.609,0.623,borderline,borderline,borderline,Unresolved,10.57,3.669
+61,inconclusive70,clear,6.5,0.1,0.1,0.4712,0.32,0.3806,0.3881,0.679,0.808,0.824,borderline,borderline,borderline,Unresolved,5.2,3.664
+65,inconclusive70,clear,6.5,0.2,0.025,0.4712,0.08,0.0979,0.1086,0.17,0.208,0.23,tool-limited,tool-limited,tool-limited,Unresolved,21.39,3.676
+66,inconclusive70,clear,6.5,0.2,0.05,0.4712,0.16,0.192,0.2026,0.34,0.407,0.43,tool-limited,tool-limited,tool-limited,Unresolved,16.0,3.672
+67,inconclusive70,clear,6.5,0.2,0.075,0.4712,0.24,0.2868,0.297,0.509,0.609,0.63,borderline,borderline,borderline,Unresolved,10.57,3.667
+68,inconclusive70,clear,6.5,0.2,0.1,0.4712,0.32,0.3806,0.3927,0.679,0.808,0.833,borderline,borderline,borderline,Unresolved,5.2,3.661
+71,inconclusive70,clear,6.5,0.3,0.0,0.4712,0.0,0.0044,0.0219,0.0,0.009,0.046,tool-limited,tool-limited,tool-limited,Unresolved,26.75,3.678
+72,inconclusive70,clear,6.5,0.3,0.025,0.4712,0.08,0.0979,0.1124,0.17,0.208,0.238,tool-limited,tool-limited,tool-limited,Unresolved,21.39,3.675
+73,inconclusive70,clear,6.5,0.3,0.05,0.4712,0.16,0.192,0.2065,0.34,0.407,0.438,tool-limited,tool-limited,tool-limited,Unresolved,16.0,3.67
+74,inconclusive70,clear,6.5,0.3,0.075,0.4712,0.24,0.2868,0.3034,0.509,0.609,0.644,borderline,borderline,borderline,Unresolved,10.57,3.665
+75,inconclusive70,clear,6.5,0.3,0.1,0.4712,0.32,0.3806,0.3984,0.679,0.808,0.845,borderline,borderline,borderline,Unresolved,5.2,3.657
+78,inconclusive70,clear,6.5,0.5,0.0,0.4712,0.0,0.0044,0.0313,0.0,0.009,0.066,tool-limited,tool-limited,tool-limited,Unresolved,26.75,3.677
+79,inconclusive70,clear,6.5,0.5,0.025,0.4712,0.08,0.0979,0.1227,0.17,0.208,0.26,tool-limited,tool-limited,tool-limited,Unresolved,21.39,3.672
+80,inconclusive70,clear,6.5,0.5,0.05,0.4712,0.16,0.192,0.2167,0.34,0.407,0.46,tool-limited,tool-limited,tool-limited,Unresolved,16.0,3.665
+81,inconclusive70,clear,6.5,0.5,0.075,0.4712,0.24,0.2868,0.3146,0.509,0.609,0.668,borderline,borderline,borderline,Unresolved,10.57,3.657
+82,inconclusive70,clear,6.5,0.5,0.1,0.4712,0.32,0.3806,0.4132,0.679,0.808,0.877,borderline,borderline,borderline,Unresolved,5.2,3.325
+85,inconclusive70,clear,6.5,0.75,0.0,0.4712,0.0,0.0044,0.0442,0.0,0.009,0.094,tool-limited,tool-limited,tool-limited,Unresolved,26.75,3.671
+86,inconclusive70,clear,6.5,0.75,0.025,0.4712,0.08,0.0979,0.1351,0.17,0.208,0.287,tool-limited,tool-limited,tool-limited,Unresolved,21.39,3.662
+87,inconclusive70,clear,6.5,0.75,0.05,0.4712,0.16,0.192,0.231,0.34,0.407,0.49,tool-limited,tool-limited,tool-limited,Unresolved,16.0,3.639
+88,inconclusive70,clear,6.5,0.75,0.075,0.4712,0.24,0.2868,0.3301,0.509,0.609,0.7,borderline,borderline,borderline,Unresolved,10.57,3.143
+89,inconclusive70,clear,6.5,0.75,0.1,0.4712,0.32,0.3806,0.4252,0.679,0.808,0.902,borderline,borderline,borderline,Unresolved,5.2,2.391
+92,inconclusive70,clear,6.5,1.0,0.0,0.4712,0.0,0.0044,0.0577,0.0,0.009,0.122,tool-limited,tool-limited,tool-limited,Unresolved,26.75,2.451
+93,inconclusive70,clear,6.5,1.0,0.025,0.4712,0.08,0.0979,0.1504,0.17,0.208,0.319,tool-limited,tool-limited,tool-limited,Unresolved,21.39,1.687
+94,inconclusive70,clear,6.5,1.0,0.05,0.4712,0.16,0.192,0.2491,0.34,0.407,0.529,tool-limited,tool-limited,borderline,Unresolved,16.0,0.896
+95,inconclusive70,clear,6.5,1.0,0.075,0.4712,0.24,0.2868,0.3444,0.509,0.609,0.731,borderline,borderline,borderline,Unresolved,10.57,0.093
+101,inconclusive70,coastal,2.0,0.05,0.05,0.4712,0.5714,0.3874,0.4073,1.213,0.822,0.864,borderline,at risk,borderline,Unresolved,4.81,3.662
+108,inconclusive70,coastal,2.0,0.1,0.05,0.4712,0.5714,0.3874,0.4179,1.213,0.822,0.887,borderline,at risk,borderline,Unresolved,4.81,3.056
+114,inconclusive70,coastal,2.0,0.2,0.025,0.4712,0.2857,0.1987,0.2462,0.606,0.422,0.522,tool-limited,borderline,borderline,Unresolved,15.61,7.696
+115,inconclusive70,coastal,2.0,0.2,0.05,0.4712,0.5714,0.3874,0.4392,1.213,0.822,0.932,borderline,at risk,borderline,Unresolved,4.81,1.833
+120,inconclusive70,coastal,2.0,0.3,0.0,0.4712,0.0,0.0103,0.075,0.0,0.022,0.159,tool-limited,tool-limited,tool-limited,Unresolved,26.41,6.502
+121,inconclusive70,coastal,2.0,0.3,0.025,0.4712,0.2857,0.1987,0.266,0.606,0.422,0.564,tool-limited,borderline,borderline,Unresolved,15.61,5.313
+122,inconclusive70,coastal,2.0,0.3,0.05,0.4712,0.5714,0.3874,0.461,1.213,0.822,0.978,borderline,at risk,borderline,Unresolved,4.81,0.587
+127,inconclusive70,coastal,2.0,0.5,0.0,0.4712,0.0,0.0103,0.119,0.0,0.022,0.253,tool-limited,tool-limited,tool-limited,Unresolved,26.41,1.659
+128,inconclusive70,coastal,2.0,0.5,0.025,0.4712,0.2857,0.1987,0.3052,0.606,0.422,0.648,tool-limited,borderline,borderline,Unresolved,15.61,0.425
+151,inconclusive70,coastal,4.0,0.05,0.075,0.4712,0.4,0.4276,0.4339,0.849,0.907,0.921,borderline,borderline,borderline,Unresolved,2.5,2.137
+157,inconclusive70,coastal,4.0,0.1,0.05,0.4712,0.2667,0.2864,0.2899,0.566,0.608,0.615,borderline,borderline,borderline,Unresolved,10.59,4.468
+158,inconclusive70,coastal,4.0,0.1,0.075,0.4712,0.4,0.4276,0.4383,0.849,0.907,0.93,borderline,borderline,borderline,Unresolved,2.5,1.89
+164,inconclusive70,coastal,4.0,0.2,0.05,0.4712,0.2667,0.2864,0.2976,0.566,0.608,0.632,borderline,borderline,borderline,Unresolved,10.59,4.462
+165,inconclusive70,coastal,4.0,0.2,0.075,0.4712,0.4,0.4276,0.4457,0.849,0.907,0.946,borderline,borderline,borderline,Unresolved,2.5,1.463
+170,inconclusive70,coastal,4.0,0.3,0.025,0.4712,0.1333,0.1442,0.1576,0.283,0.306,0.334,tool-limited,tool-limited,tool-limited,Unresolved,18.74,4.47
+171,inconclusive70,coastal,4.0,0.3,0.05,0.4712,0.2667,0.2864,0.3,0.566,0.608,0.637,borderline,borderline,borderline,Unresolved,10.59,4.449
+172,inconclusive70,coastal,4.0,0.3,0.075,0.4712,0.4,0.4276,0.4552,0.849,0.907,0.966,borderline,borderline,borderline,Unresolved,2.5,0.92
+176,inconclusive70,coastal,4.0,0.5,0.0,0.4712,0.0,0.0037,0.0311,0.0,0.008,0.066,tool-limited,tool-limited,tool-limited,Unresolved,26.79,4.467
+177,inconclusive70,coastal,4.0,0.5,0.025,0.4712,0.1333,0.1442,0.1698,0.283,0.306,0.36,tool-limited,tool-limited,tool-limited,Unresolved,18.74,4.387
+178,inconclusive70,coastal,4.0,0.5,0.05,0.4712,0.2667,0.2864,0.3167,0.566,0.608,0.672,borderline,borderline,borderline,Unresolved,10.59,3.621
+179,inconclusive70,coastal,4.0,0.5,0.075,0.4712,0.4,0.4276,0.4777,0.849,0.907,1.014,borderline,borderline,at risk,Falsified(sideways),2.5,-0.368
+183,inconclusive70,coastal,4.0,0.75,0.0,0.4712,0.0,0.0037,0.0472,0.0,0.008,0.1,tool-limited,tool-limited,tool-limited,Unresolved,26.79,1.497
+198,inconclusive70,turbid,1.0,0.05,0.025,0.4712,0.6667,0.4406,0.4774,1.415,0.935,1.013,borderline,at risk,at risk,Falsified(sideways),1.76,-0.354
+205,inconclusive70,turbid,1.0,0.1,0.025,0.4712,0.6667,0.4406,0.504,1.415,0.935,1.069,borderline,at risk,at risk,Falsified(sideways),1.76,-1.875
+211,inconclusive70,turbid,1.0,0.2,0.0,0.4712,0.0,0.0138,0.1153,0.0,0.029,0.245,tool-limited,tool-limited,tool-limited,Unresolved,26.21,2.657
+247,inconclusive70,turbid,1.5,0.05,0.025,0.4712,0.4,0.3628,0.3714,0.849,0.77,0.788,borderline,borderline,borderline,Unresolved,6.21,1.917
+254,inconclusive70,turbid,1.5,0.1,0.025,0.4712,0.4,0.3628,0.3815,0.849,0.77,0.809,borderline,borderline,borderline,Unresolved,6.21,1.505
+260,inconclusive70,turbid,1.5,0.2,0.0,0.4712,0.0,0.0054,0.0295,0.0,0.011,0.063,tool-limited,tool-limited,tool-limited,Unresolved,26.69,1.938
+267,inconclusive70,turbid,1.5,0.3,0.0,0.4712,0.0,0.0054,0.0488,0.0,0.011,0.104,tool-limited,tool-limited,tool-limited,Unresolved,26.69,1.435
+1,certified32,clear,3.0,0.05,0.0,0.4712,0.0,0.0077,0.019,0.0,0.016,0.04,tool-limited,tool-limited,tool-limited,Certified,26.56,9.27
+2,certified32,clear,3.0,0.05,0.025,0.4712,0.1818,0.1388,0.1502,0.386,0.295,0.319,tool-limited,tool-limited,tool-limited,Certified,19.05,8.819
+3,certified32,clear,3.0,0.05,0.05,0.4712,0.3636,0.2705,0.2823,0.772,0.574,0.599,borderline,borderline,borderline,Certified,11.5,8.287
+8,certified32,clear,3.0,0.1,0.0,0.4712,0.0,0.0077,0.0244,0.0,0.016,0.052,tool-limited,tool-limited,tool-limited,Certified,26.56,9.166
+9,certified32,clear,3.0,0.1,0.025,0.4712,0.1818,0.1388,0.1554,0.386,0.295,0.33,tool-limited,tool-limited,tool-limited,Certified,19.05,8.711
+10,certified32,clear,3.0,0.1,0.05,0.4712,0.3636,0.2705,0.2878,0.772,0.574,0.611,borderline,borderline,borderline,Certified,11.5,8.181
+15,certified32,clear,3.0,0.2,0.0,0.4712,0.0,0.0077,0.0346,0.0,0.016,0.073,tool-limited,tool-limited,tool-limited,Certified,26.56,8.952
+16,certified32,clear,3.0,0.2,0.025,0.4712,0.1818,0.1388,0.1663,0.386,0.295,0.353,tool-limited,tool-limited,tool-limited,Certified,19.05,8.523
+22,certified32,clear,3.0,0.3,0.0,0.4712,0.0,0.0077,0.0456,0.0,0.016,0.097,tool-limited,tool-limited,tool-limited,Certified,26.56,8.731
+50,certified32,clear,6.5,0.05,0.0,0.4712,0.0,0.0044,0.0109,0.0,0.009,0.023,tool-limited,tool-limited,tool-limited,Certified,26.75,3.679
+51,certified32,clear,6.5,0.05,0.025,0.4712,0.08,0.0979,0.1032,0.17,0.208,0.219,tool-limited,tool-limited,tool-limited,Certified,21.39,3.676
+52,certified32,clear,6.5,0.05,0.05,0.4712,0.16,0.192,0.1972,0.34,0.407,0.419,tool-limited,tool-limited,tool-limited,Certified,16.0,3.674
+57,certified32,clear,6.5,0.1,0.0,0.4712,0.0,0.0044,0.013,0.0,0.009,0.028,tool-limited,tool-limited,tool-limited,Certified,26.75,3.679
+58,certified32,clear,6.5,0.1,0.025,0.4712,0.08,0.0979,0.105,0.17,0.208,0.223,tool-limited,tool-limited,tool-limited,Certified,21.39,3.676
+64,certified32,clear,6.5,0.2,0.0,0.4712,0.0,0.0044,0.0174,0.0,0.009,0.037,tool-limited,tool-limited,tool-limited,Certified,26.75,3.678
+99,certified32,coastal,2.0,0.05,0.0,0.4712,0.0,0.0103,0.0274,0.0,0.022,0.058,tool-limited,tool-limited,tool-limited,Certified,26.41,9.159
+100,certified32,coastal,2.0,0.05,0.025,0.4712,0.2857,0.1987,0.2163,0.606,0.422,0.459,tool-limited,borderline,tool-limited,Certified,15.61,8.378
+106,certified32,coastal,2.0,0.1,0.0,0.4712,0.0,0.0103,0.0374,0.0,0.022,0.079,tool-limited,tool-limited,tool-limited,Certified,26.41,8.98
+107,certified32,coastal,2.0,0.1,0.025,0.4712,0.2857,0.1987,0.2263,0.606,0.422,0.48,tool-limited,borderline,tool-limited,Certified,15.61,8.2
+113,certified32,coastal,2.0,0.2,0.0,0.4712,0.0,0.0103,0.056,0.0,0.022,0.119,tool-limited,tool-limited,tool-limited,Certified,26.41,8.613
+148,certified32,coastal,4.0,0.05,0.0,0.4712,0.0,0.0037,0.0084,0.0,0.008,0.018,tool-limited,tool-limited,tool-limited,Certified,26.79,4.485
+149,certified32,coastal,4.0,0.05,0.025,0.4712,0.1333,0.1442,0.1464,0.283,0.306,0.311,tool-limited,tool-limited,tool-limited,Certified,18.74,4.48
+150,certified32,coastal,4.0,0.05,0.05,0.4712,0.2667,0.2864,0.2891,0.566,0.608,0.614,borderline,borderline,borderline,Certified,10.59,4.47
+155,certified32,coastal,4.0,0.1,0.0,0.4712,0.0,0.0037,0.0105,0.0,0.008,0.022,tool-limited,tool-limited,tool-limited,Certified,26.79,4.484
+156,certified32,coastal,4.0,0.1,0.025,0.4712,0.1333,0.1442,0.1474,0.283,0.306,0.313,tool-limited,tool-limited,tool-limited,Certified,18.74,4.478
+162,certified32,coastal,4.0,0.2,0.0,0.4712,0.0,0.0037,0.015,0.0,0.008,0.032,tool-limited,tool-limited,tool-limited,Certified,26.79,4.483
+197,certified32,turbid,1.0,0.05,0.0,0.4712,0.0,0.0138,0.0451,0.0,0.029,0.096,tool-limited,tool-limited,tool-limited,Certified,26.21,6.252
+246,certified32,turbid,1.5,0.05,0.0,0.4712,0.0,0.0054,0.0127,0.0,0.011,0.027,tool-limited,tool-limited,tool-limited,Certified,26.69,1.96
+253,certified32,turbid,1.5,0.1,0.0,0.4712,0.0,0.0054,0.0183,0.0,0.011,0.039,tool-limited,tool-limited,tool-limited,Certified,26.69,1.957
+163,certified32,coastal,4.0,0.2,0.025,0.4712,0.1333,0.1442,0.1519,0.283,0.306,0.322,tool-limited,tool-limited,tool-limited,Certified,18.74,4.475
+169,certified32,coastal,4.0,0.3,0.0,0.4712,0.0,0.0037,0.0199,0.0,0.008,0.042,tool-limited,tool-limited,tool-limited,Certified,26.79,4.481
+204,certified32,turbid,1.0,0.1,0.0,0.4712,0.0,0.0138,0.0679,0.0,0.029,0.144,tool-limited,tool-limited,tool-limited,Certified,26.21,5.619

@@ -1,0 +1,58 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the paper."
+title: "Verified Operating Envelopes for Reliable AI-Controlled Underwater Optical Links: code, models and data"
+type: software
+repository-code: "https://github.com/nikos-kekatos/uwoc-certified-envelopes"
+license: MIT
+authors:
+  - family-names: Kekatos
+    given-names: Nikolaos
+    affiliation: Clone Systems
+    orcid: "https://orcid.org/0009-0000-2358-4270"
+  - family-names: Lekidis
+    given-names: Alexios
+    affiliation: University of Thessaly
+    orcid: "https://orcid.org/0000-0002-8243-7075"
+  - family-names: Petridou
+    given-names: Sophia
+    affiliation: University of Macedonia
+  - family-names: Katsaros
+    given-names: Panagiotis
+    affiliation: Aristotle University of Thessaloniki
+    orcid: "https://orcid.org/0000-0002-4309-5295"
+  - family-names: Basagiannis
+    given-names: Stylianos
+    affiliation: International Hellenic University
+    orcid: "https://orcid.org/0000-0002-4513-0541"
+keywords:
+  - underwater wireless optical communication
+  - reachability analysis
+  - neural network verification
+  - falsification
+  - runtime assurance
+  - CORA
+preferred-citation:
+  type: article
+  title: "Verified Operating Envelopes for Reliable AI-Controlled Underwater Optical Links"
+  status: submitted
+  year: 2026
+  authors:
+    - family-names: Kekatos
+      given-names: Nikolaos
+      affiliation: Clone Systems
+      orcid: "https://orcid.org/0009-0000-2358-4270"
+    - family-names: Lekidis
+      given-names: Alexios
+      affiliation: University of Thessaly
+      orcid: "https://orcid.org/0000-0002-8243-7075"
+    - family-names: Petridou
+      given-names: Sophia
+      affiliation: University of Macedonia
+    - family-names: Katsaros
+      given-names: Panagiotis
+      affiliation: Aristotle University of Thessaloniki
+      orcid: "https://orcid.org/0000-0002-4309-5295"
+    - family-names: Basagiannis
+      given-names: Stylianos
+      affiliation: International Hellenic University
+      orcid: "https://orcid.org/0000-0002-4513-0541"

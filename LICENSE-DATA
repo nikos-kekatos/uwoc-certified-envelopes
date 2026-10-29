@@ -1,0 +1,15 @@
+Data licence
+
+The data in this repository, namely the contents of results/, models/ and figures/
+(raw experiment outputs, trained controller networks and figures), are
+
+  Copyright (c) 2026 Nikolaos Kekatos, Stylianos Basagiannis, Alexios Lekidis,
+  Panagiotis Katsaros
+
+and licensed under the Creative Commons Attribution 4.0 International licence
+(CC BY 4.0): https://creativecommons.org/licenses/by/4.0/
+Full legal code: https://creativecommons.org/licenses/by/4.0/legalcode
+
+The source code (code/) is licensed under the MIT licence; see LICENSE.
+
+Please attribute by citing the paper listed in CITATION.cff.

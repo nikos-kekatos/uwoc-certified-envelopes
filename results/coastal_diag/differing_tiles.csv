@@ -1,0 +1,5 @@
+water,d0_m,phi0_deg,area_m2,cat_teacher,cat_res32,t_mc_outage_rate,r_mc_outage_rate,t_mc_min_rho,r_mc_min_rho,t_fals_found,r_fals_found,t_fals_min_rho,r_fals_min_rho,t_verdict_maint,r_verdict_maint,t_provenance,r_provenance,t_reach_status,r_reach_status
+coastal,1.25,-15.0,0.109083078249646,MC-outage,EVV-falsified,0.005,0,-0.0705972617848429,0.646310642440711,0,1,NaN,-2.93026777141954,Falsified,Falsified,Rx,Rx,skipped:empirical-only,violated
+coastal,2.75,15.0,0.23998277214922,EVV-unfalsified,EVV-falsified,0,0,2.80332265565994,2.29797431679002,0,1,0.110857838196903,-0.0408307950942287,NotFalsified(empirical),Falsified,,Rx,skipped:empirical-only,violated
+coastal,5.25,-15.0,0.458148928648511,MC-outage,EVV-falsified,0.005,0,-0.0661539537522961,0.179698974859571,0,1,NaN,-0.357729824348217,Falsified,Falsified,P,P,skipped:empirical-only,violated
+coastal,5.25,15.0,0.458148928648511,MC-outage,EVV-falsified,0.005,0,-0.154351434684741,0.0443097829268871,0,1,NaN,-0.391533911335997,Falsified,Falsified,P,P,skipped:empirical-only,violated
